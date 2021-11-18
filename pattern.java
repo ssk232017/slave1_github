@@ -11,6 +11,14 @@ public class pattern {
 			System.out.println(+(i+1)+"\n");
 		}
 		System.out.println("This is pattern from ssk232017/slave1_github");
+		System.out.println("*********     *******************	 ***
+				    *********     *******************	 ***
+				       **	  **			 ***
+				       **	  *************		 ***
+				       **	  *************          ***
+				   **  **	  **			 ***
+				   ******	  *********************
+				   ");		
 	}
 
 }
