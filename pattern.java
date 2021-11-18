@@ -1,5 +1,5 @@
 //package testJavaProject;
-import java.util.*:
+import java.util.*;
 public class pattern {
 	public static void main(String [] args) {
 		int i=0;
